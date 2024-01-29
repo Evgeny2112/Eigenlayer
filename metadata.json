@@ -1,7 +1,7 @@
 {
-  "name": "Some operator",
+  "name": "SquareEigen",
   "website": "https://www.example.com",
-  "description": "I operate on some data",
-  "logo": "https://www.example.com/logo.png",
+  "description": "I squarate some data",
+  "logo": "https://raw.githubusercontent.com/Evgeny2112/Eigenlayer/main/logo.png",
   "twitter": "https://x.com/example"
 }
